@@ -1,6 +1,6 @@
 Set Up the Environment:
 
-***1.Install necessary packages: ```speech_recognition, pyttsx3, nltk, pyaudio.```
+***1.Install necessary packages: ```speech_recognition, pyttsx3, nltk, pyaudio.```***
 
 2.Use the speech_recognition package to capture and convert speech to text.
 Natural Language Processing:
